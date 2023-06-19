@@ -1,4 +1,3 @@
-//import { SlotocrashServer } from "./games/slotocrash/slotocrash_server";
 import { SlotocrashServer } from "./src/games/slotocrash/slotocrash_server";
 import { RGS } from "./src/libs/server/rgs";
 
